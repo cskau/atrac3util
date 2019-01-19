@@ -26,7 +26,7 @@ And then add a line like `msacm.at3=atrac3.acm` or
 `msacm.at3=c:\windows\system32\atrac3.acm` to
 `~/.wine/drive_c/windows/system.ini`.
 
-## compile
+## Compile
 
 ```
 mcs -out:atrac3util.exe main.cs acm.cs
